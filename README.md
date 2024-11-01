@@ -7,25 +7,27 @@ This repository contains a machine learning model designed to predict the catego
 ## Dataset
 
 The dataset used includes features such as:
-•	Age 
-•	Sex 
-•	Albumin 
-•	Alkaline Phosphatase 
-•	Alanine Aminotransferase 
-•	Aspartate Aminotransferase 
-•	Bilirubin 
-•	Cholinesterase 
-•	Cholesterol 
-•	Creatinina 
-•	Gamma Glutamyl Transferase 
-•	Protein
+
+    •	Age 
+    •	Sex 
+    •	Albumin 
+    •	Alkaline Phosphatase 
+    •	Alanine Aminotransferase 
+    •	Aspartate Aminotransferase 
+    •	Bilirubin 
+    •	Cholinesterase 
+    •	Cholesterol 
+    •	Creatinina 
+    •	Gamma Glutamyl Transferase 
+    •	Protein
 
 Predicted Category are:
-•	No Disease 
-•	Cirrhosis 
-•	Hepatitis 
-•	Fibrosis 
-•	Suspect Disease
+
+    •	No Disease 
+    •	Cirrhosis 
+    •	Hepatitis 
+    •	Fibrosis 
+    •	Suspect Disease
 
 ## Model Architecture
 
